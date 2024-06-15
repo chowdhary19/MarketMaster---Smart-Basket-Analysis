@@ -97,14 +97,7 @@ The project repository contains the following files:
 
 ![General Model](Source/1.webp)
 
----
 
-## Developer's Contact
-**LinkedIn**: [Yuvraj Singh Chowdhary](https://www.linkedin.com/in/yuvraj-singh-chowdhary/)  
-**Reddit**: [SuccessfulStrain9533](https://www.reddit.com/user/SuccessfulStrain9533/)  
-**Email**: chowdharyyuvrajsingh@gmail.com  
-
----
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
